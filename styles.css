@@ -31,19 +31,23 @@ font-size: 16px;
 
 .profile-pic img {
     width: 350px;
-    border-radius: 300px;
+    border-radius: 400px;
+    margin-top: 60px;
+    text-align: center;
+ 
 }
 
 
 .profile-pic {
-    background-color: yellow;
-    width: 40%;
+    
+    width: 50%;
 }
 .profile-title {
-    background-color: green;
+  
    vertical-align: top;
-    width: 60%;
+    width: 50%;
     font-size: 16px;
+    margin-top: 200px;
     
 
 }
