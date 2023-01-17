@@ -1,13 +1,17 @@
 html, body {
     margin: 0px;
     padding: 0px;
-
 }
-.navegation {
-   background-color: black;
-    color:  white;
 
+.navigation ul {
+background-color: black;
+color: white;
+list-style: none;
+text-align: right;
 }
-.navegation ul {
-margin-top: 0px;
+
+.navigation li {
+display: inline-block;
+padding-left: 30px;
+padding-right: 30px;
 }
