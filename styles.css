@@ -2,19 +2,22 @@ html, body {
     margin: 0px;
     padding: 0px;
     font-size: 0px;
+ 
     
 }
 .navigation{
 
     color: beige;
     height: 50px;
+    font-family: 'Pacifico', cursive;
 }
 .navigation ul {
 margin-top: 0px;
-background-color: blueviolet;
+background-color: rgb(253, 99, 81);
 height: 50px;
 list-style: none;
 text-align: right;
+
 }
 
 .navigation li {
@@ -23,8 +26,11 @@ padding-left: 30px;
 padding-right: 30px;
 line-height: 50px;
 font-size: 16px;
-}
 
+}
+.front span{
+    color: antiquewhite;
+}
 .front div{
     display: inline-block;
 }
@@ -39,15 +45,24 @@ font-size: 16px;
 
 
 .profile-pic {
-    
-    width: 50%;
+    padding-left: 100px;
+  
 }
 .profile-title {
-  
-   vertical-align: top;
-    width: 50%;
-    font-size: 16px;
+    padding-left: 100px;
+    vertical-align: top;
     margin-top: 200px;
-    
+   
 
+}
+.profile-title h1 {
+    font-size: 60px;
+    margin-top:20px;
+    line-height: 5px;
+    
+}
+.profile-title h2 {
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    margin-top: -10px;
 }
