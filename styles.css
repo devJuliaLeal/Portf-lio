@@ -1,4 +1,13 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+
+}
 .navegation {
-    background-color: black;
-    color: antiquewhite;
+   background-color: black;
+    color:  white;
+
+}
+.navegation ul {
+margin-top: 0px;
 }
