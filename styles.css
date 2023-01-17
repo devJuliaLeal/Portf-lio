@@ -9,7 +9,7 @@ html, body {
 
     color: beige;
     height: 50px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 .navigation ul {
 margin-top: 0px;
@@ -26,6 +26,7 @@ padding-left: 30px;
 padding-right: 30px;
 line-height: 50px;
 font-size: 16px;
+font-family: 'Raleway', sans-serif;
 
 }
 .front span{
@@ -63,6 +64,6 @@ font-size: 16px;
 }
 .profile-title h2 {
     font-size: 20px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Raleway', sans-serif;
     margin-top: -10px;
 }
